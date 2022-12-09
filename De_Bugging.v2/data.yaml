@@ -1,0 +1,13 @@
+names:
+- Cockroach
+nc: 1
+roboflow:
+  license: Public Domain
+  project: de_bugging
+  url: https://universe.roboflow.com/project/de_bugging/dataset/2
+  version: 2
+  workspace: project
+test: ../test/images
+train: /content/drive/MyDrive/De_Bugging.v2/train.txt
+val: ../valid/images
+valid: /content/drive/MyDrive/De_Bugging.v2/valid.txt
